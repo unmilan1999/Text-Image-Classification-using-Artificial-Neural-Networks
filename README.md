@@ -14,3 +14,5 @@ Given, a handwritten dataset. This project uses the dataset to create a model us
 4. Creating and training the model using Artificial Neural Network (ANN)
 5. Evaluating the model using the test data.
 6. Understanding the working of the model.
+
+Overall, the model is able to predict the letters from handwritings with 95 percent accuracy.
